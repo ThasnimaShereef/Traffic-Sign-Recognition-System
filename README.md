@@ -50,13 +50,13 @@ This project aims to develop a **Convolutional Neural Network (CNN)** model capa
 
 Here are some screenshots of the project:
 
-![Web GUI](Images/tsrs.png)
+![Web GUI](Images/tsrs.jpg)
 *Traffic Sign Recognition GUI.*
 
-![Upload Image](Images/tsrs1.png)
+![Upload Image](Images/tsrs1.jpg)
 *Traffic Sign upload.*
 
-![Result](Images/tsrs2.png)
+![Result](Images/tsrs2.jpg)
 *Resultant Traffic Sign Detected.*
 
 ## Installation
